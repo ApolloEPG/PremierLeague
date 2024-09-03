@@ -215,9 +215,9 @@
 <title lang="en">Young Boys v Aston Villa</title>
 <desc lang="en">Next Fixture - Young Boys v Aston Villa - Tuesday 17th September - 17:30 Kick Off GMT - UEFA Champions League</desc>
 </programme>
-<programme start="20240703000000 +0000" stop="20240914215959 +0000" channel="Aston Villa">
+<programme start="20240703000000 +0000" stop="20240921215959 +0000" channel="Aston Villa">
 <title lang="en">Aston Villa v Wolverhampton Wanderers</title>
-<desc lang="en">Next Fixture - Aston Villa v Wolverhampton Wanderers - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
+<desc lang="en">Next Fixture - Aston Villa v Wolverhampton Wanderers - Saturday 21st September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240704000000 +0000" stop="20240929215959 +0000" channel="Aston Villa">
 <title lang="en">Ipswich Town v Aston Villa</title>
@@ -412,44 +412,44 @@
 <icon src="https://archive.org/download/arsenal_202309/Bournemouth.jpg"/>
 </channel>
 <programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Bournemouth">
-<title lang="en">Bournemouth v Everton</title>
-<desc lang="en">Next Fixture - Bournemouth v Everton - Saturday 14th September - 17:30 Kick Off GMT - English Premier League</desc>
+<title lang="en">AFC Bournemouth v Chelsea</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Chelsea - Saturday 14th September - 20:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240702000000 +0000" stop="20240917215959 +0000" channel="Bournemouth">
-<title lang="en">Young Boys v Bournemouth</title>
-<desc lang="en">Next Fixture - Young Boys v Bournemouth - Tuesday 17th September - 17:30 Kick Off GMT - UEFA Champions League</desc>
+<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Bournemouth">
+<title lang="en">Liverpool v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Liverpool v AFC Bournemouth - Saturday 21st September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240703000000 +0000" stop="20240914215959 +0000" channel="Bournemouth">
-<title lang="en">Bournemouth v Wolverhampton Wanderers</title>
-<desc lang="en">Next Fixture - Bournemouth v Wolverhampton Wanderers - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
+<programme start="20240703000000 +0000" stop="20240930215959 +0000" channel="Bournemouth">
+<title lang="en">AFC Bournemouth v Southampton</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Southampton - Monday 30th September - 20:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240704000000 +0000" stop="20240929215959 +0000" channel="Bournemouth">
-<title lang="en">Ipswich Town v Bournemouth</title>
-<desc lang="en">Next Fixture - Ipswich Town v Bournemouth - Sunday 29th September - 14:00 Kick Off GMT - English Premier League</desc>
+<programme start="20240704000000 +0000" stop="20241005215959 +0000" channel="Bournemouth">
+<title lang="en">Leicester City v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Leicester City v AFC Bournemouth - Saturday 5th October - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240705000000 +0000" stop="20241002215959 +0000" channel="Bournemouth">
-<title lang="en">Bournemouth v Bayern Munich</title>
-<desc lang="en">Next Fixture - Bournemouth v Bayern Munich - Wednesday 2nd October - 20:00 Kick Off GMT - UEFA Champions League</desc>
+<programme start="20240705000000 +0000" stop="20241019215959 +0000" channel="Bournemouth">
+<title lang="en">AFC Bournemouth v Arsenal</title>
+<desc lang="en">Next Fixture - AFC Bournemouth v Arsenal - Saturday 19th October - 17:30 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240707000000 +0000" stop="20241006215959 +0000" channel="Bournemouth">
-<title lang="en">Bournemouth v Manchester United</title>
-<desc lang="en">Next Fixture - Bournemouth v Manchester United - Sunday 6th October - 14:00 Kick Off GMT - English Premier League</desc>
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
 </programme>
 <programme start="20240708000000 +0000" stop="20241019215959 +0000" channel="Bournemouth">
-<title lang="en">Fulham v Bournemouth</title>
-<desc lang="en">Next Fixture - Fulham v Bournemouth - Saturday 19th October - 15:00 Kick Off GMT - English Premier League</desc>
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
 </programme>
 <programme start="20240709000000 +0000" stop="20241022215959 +0000" channel="Bournemouth">
-<title lang="en">Bournemouth v Bologna</title>
-<desc lang="en">Next Fixture - Bournemouth v Bologna - Tuesday 22nd October - 20:00 Kick Off GMT - UEFA Champions League</desc>
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
 </programme>
 <programme start="20240710000000 +0000" stop="20241026215959 +0000" channel="Bournemouth">
-<title lang="en">Bournemouth v AFC Bournemouth</title>
-<desc lang="en">Next Fixture - Bournemouth v AFC Bournemouth - Saturday 26th October - 15:00 Kick Off GMT - English Premier League</desc>
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
 </programme>
 <programme start="20240711000000 +0000" stop="20241102215959 +0000" channel="Bournemouth">
-<title lang="en">Tottenham Hotspur v Bournemouth</title>
-<desc lang="en">Next Fixture - Tottenham Hotspur v Bournemouth - Saturday 2nd November - 15:00 Kick Off GMT - English Premier League</desc>
+<title lang="en">Premier League Match</title>
+<desc lang="en">Premier League Match</desc>
 </programme>
 <programme start="20240712000000 +0000" stop="20241106215959 +0000" channel="Bournemouth">
 <title lang="en">Premier League Match 11</title>
