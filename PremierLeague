@@ -1019,3 +1019,47 @@
 <title lang="en">Premier League Match</title>
 <desc lang="en">Premier League Match</desc>
 </programme>
+<channel id="Burnley">
+<display-name lang="en">Burnley</display-name>
+<icon src="https://archive.org/download/Burnley_202309/Burnley.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20240915215959 +0000" channel="Burnley">
+<title lang="en">Leeds United v Burnley</title>
+<desc lang="en">Next Fixture - Leeds United v Burnley - Saturday 14th September - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20240917215959 +0000" channel="Burnley">
+<title lang="en">Burnley v Portsmouth Rovers</title>
+<desc lang="en">Next Fixture - Burnley v Portsmouth - Saturday 21st September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20240919215959 +0000" channel="Burnley">
+<title lang="en">Oxford United v Burnley</title>
+<desc lang="en">Next Fixture - Oxford United v Burnley - Saturday 28th September - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20240922215959 +0000" channel="Burnley">
+<title lang="en">Burnley v Plymouth Argyle</title>
+<desc lang="en">Next Fixture - Burnley v Plymouth Argyle - Tuesday 1st October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20240928215959 +0000" channel="Burnley">
+<title lang="en">Burnley v Preston North End</title>
+<desc lang="en">Next Fixture - Burnley v Preston North End - Saturday 5th October - 12:30 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241001215959 +0000" channel="Burnley">
+<title lang="en">Sheffield Wednesday v Burnley</title>
+<desc lang="en">Next Fixture - Sheffield Wednesday v Burnley - Saturday 19th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240710000000 +0000" stop="20241022215959 +0000" channel="Burnley">
+<title lang="en">Hull City v Burnley</title>
+<desc lang="en">Next Fixture - Hull City v Burnley - Wednesday 23nd October - 19:45 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240711000000 +0000" stop="20241027215959 +0000" channel="Burnley">
+<title lang="en"> Burnley v QPR Rovers</title>
+<desc lang="en">Next Fixture - Burnley v QPR - Saturday 26th October - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Burnley">
+<title lang="en">Millwall v Burnley</title>
+<desc lang="en">Next Fixture - Millwall v Burnley - Sunday 3rd November - 15:00 Kick Off GMT - EFL Championship</desc>
+</programme>
+<programme start="20240712000000 +0000" stop="20241102215959 +0000" channel="Burnley">
+<title lang="en">West Brom v Burnley</title>
+<desc lang="en">Next Fixture - West Brom v Burnley - Thursday 7th November - 20:00 Kick Off GMT - EFL Championship</desc>
+</programme>
