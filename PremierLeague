@@ -3879,6 +3879,7 @@
 <display-name lang="en">Liverpool</display-name>
 <icon src="https://archive.org/download/Liverpool_202309/Liverpool.jpg"/>
 </channel>
+<programme start="20240701000000 +0000" stop="20240915215959 +0000" channel="Liverpool">
 <title lang="en">Liverpool v Nottingham Forest</title>
 <desc lang="en">Next Fixture - Liverpool v Nottingham Forest - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
