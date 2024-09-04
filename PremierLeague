@@ -3470,9 +3470,9 @@
 <display-name lang="en">Tottenham Hotspur</display-name>
 <icon src="https://archive.org/download/arsenal_202309/Tottenham Hotspur.jpg"/>
 </channel>
-<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Tottenham Hotspur">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<programme start="20240701000000 +0000" stop="20240915215959 +0000" channel="Tottenham Hotspur">
+<title lang="en">Tottenham Hotspur v Arsenal</title>
+<desc lang="en">Next Fixture - Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Tottenham Hotspur">
 <title lang="en">Premier League Match</title>
@@ -3675,8 +3675,8 @@
 <icon src="https://archive.org/download/arsenal_202309/West Ham United.jpg"/>
 </channel>
 <programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">Fulham v West Ham United</title>
+<desc lang="en">Next Fixture - Fulham v West Ham United - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="West Ham United">
 <title lang="en">Premier League Match</title>
@@ -3878,9 +3878,9 @@
 <display-name lang="en">Wolverhampton Wanderers</display-name>
 <icon src="https://archive.org/download/arsenal_202309/Wolverhampton Wanderers.jpg"/>
 </channel>
-<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Wolverhampton Wanderers">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<programme start="20240701000000 +0000" stop="20240915215959 +0000" channel="Wolverhampton Wanderers">
+<title lang="en">Liverpool v Nottingham Forest</title>
+<desc lang="en">Next Fixture - Wolverhampton Wanderers v Newcastle United - Sunday 15th September - 16:30 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Wolverhampton Wanderers">
 <title lang="en">Premier League Match</title>
