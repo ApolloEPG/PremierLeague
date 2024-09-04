@@ -4082,3 +4082,7 @@
 <display-name lang="en">TEST</display-name>
 <icon src="https://archive.org/download/TEST_202309/TEST.jpg"/>
 </channel>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="TEST">
+<title lang="en">TEST</title>
+<desc lang="en">TEST</desc>
+</programme>
