@@ -4079,11 +4079,3 @@
 <title lang="en">Premier League Match</title>
 <desc lang="en">Premier League Match</desc>
 </programme>
-<channel id="test">
-<display-name lang="en">test</display-name>
-<icon src="https://archive.org/download/test_202309/test.jpg"/>
-</channel>
-<programme start="20240701000000 +0000" stop="20240915215959 +0000" channel="test">
-<title lang="en">test</title>
-<desc lang="en">Next Fixture - test - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
-</programme>
