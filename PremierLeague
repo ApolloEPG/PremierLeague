@@ -1840,8 +1840,8 @@
 <icon src="https://archive.org/download/arsenal_202309/Ipswich Town.jpg"/>
 </channel>
 <programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Ipswich Town">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">Brighton And Hove Albion v Ipswich Town</title>
+<desc lang="en">Next Fixture - Brighton And Hove Albion v Ipswich Town - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Ipswich Town">
 <title lang="en">Premier League Match</title>
@@ -2044,8 +2044,8 @@
 <icon src="https://archive.org/download/arsenal_202309/Leicester City.jpg"/>
 </channel>
 <programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Leicester City">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">Crystal Palace v Leicester City</title>
+<desc lang="en">Next Fixture - Crystal Palace v Leicester City - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Leicester City">
 <title lang="en">Premier League Match</title>
@@ -2247,9 +2247,8 @@
 <display-name lang="en">Liverpool</display-name>
 <icon src="https://archive.org/download/arsenal_202309/Liverpool.jpg"/>
 </channel>
-<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Liverpool">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">Liverpool v Nottingham Forest</title>
+<desc lang="en">Next Fixture - Liverpool v Nottingham Forest - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Liverpool">
 <title lang="en">Premier League Match</title>
