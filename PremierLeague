@@ -4078,3 +4078,7 @@
 <title lang="en">Premier League Match</title>
 <desc lang="en">Premier League Match</desc>
 </programme>
+<channel id="TEST">
+<display-name lang="en">TEST</display-name>
+<icon src="https://archive.org/download/TEST_202309/TEST.jpg"/>
+</channel>
