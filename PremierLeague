@@ -2451,8 +2451,8 @@
 <icon src="https://archive.org/download/arsenal_202309/Manchester City.jpg"/>
 </channel>
 <programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Manchester City">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">Manchester City v Brentford</title>
+<desc lang="en">Next Fixture - Manchester City v Brentford - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Manchester City">
 <title lang="en">Premier League Match</title>
@@ -2655,8 +2655,8 @@
 <icon src="https://archive.org/download/arsenal_202309/Manchester United.jpg"/>
 </channel>
 <programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Manchester United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">Southampton v Manchester United</title>
+<desc lang="en">Next Fixture - Southampton v Manchester United - Saturday 14th September - 12:30 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Manchester United">
 <title lang="en">Premier League Match</title>
@@ -2858,9 +2858,9 @@
 <display-name lang="en">Newcastle United</display-name>
 <icon src="https://archive.org/download/arsenal_202309/Newcastle United.jpg"/>
 </channel>
-<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Newcastle United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<programme start="20240701000000 +0000" stop="20240915215959 +0000" channel="Newcastle United">
+<title lang="en">Wolverhampton Wanderers v Newcastle United</title>
+<desc lang="en">Next Fixture - Wolverhampton Wanderers v Newcastle United - Sunday 15th September - 16:30 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Newcastle United">
 <title lang="en">Premier League Match</title>
@@ -3063,8 +3063,8 @@
 <icon src="https://archive.org/download/arsenal_202309/Nottingham Forest.jpg"/>
 </channel>
 <programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Nottingham Forest">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">Liverpool v Nottingham Forest</title>
+<desc lang="en">Next Fixture - Liverpool v Nottingham Forest - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Nottingham Forest">
 <title lang="en">Premier League Match</title>
@@ -3267,8 +3267,8 @@
 <icon src="https://archive.org/download/arsenal_202309/Southampton.jpg"/>
 </channel>
 <programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Southampton">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">Southampton v Manchester United</title>
+<desc lang="en">Next Fixture - Southampton v Manchester United - Saturday 14th September - 12:30 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Southampton">
 <title lang="en">Premier League Match</title>
