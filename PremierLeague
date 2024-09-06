@@ -3674,45 +3674,45 @@
 <display-name lang="en">West Ham United</display-name>
 <icon src="https://archive.org/download/arsenal_202309/West Ham United.jpg"/>
 </channel>
-<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="West Ham United">
+<programme start="20240630000000 +0000" stop="20240914215959 +0000" channel="West Ham United">
 <title lang="en">Fulham v West Ham United</title>
 <desc lang="en">Next Fixture - Fulham v West Ham United - Saturday 14th September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<programme start="20240701000000 +0000" stop="20240921215959 +0000" channel="West Ham United">
+<title lang="en">West Ham United v Chelsea</title>
+<desc lang="en">Next Fixture - West Ham United v Chelsea - Saturday 21st September - 12:30 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240703000000 +0000" stop="20240930215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<programme start="20240702000000 +0000" stop="20240925215959 +0000" channel="West Ham United">
+<title lang="en">Liverpool v West Ham United</title>
+<desc lang="en">Next Fixture - Liverpool v West Ham United - Wednesday 25th September - 20:00 Kick Off GMT - Carabao Cup</desc>
 </programme>
-<programme start="20240704000000 +0000" stop="20241005215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<programme start="20240703000000 +0000" stop="20241005215959 +0000" channel="West Ham United">
+<title lang="en">West Ham United v Ipswich Town</title>
+<desc lang="en">Next Fixture - West Ham United v Ipswich Town - Saturday 5th October - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240705000000 +0000" stop="20241019215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<programme start="20240704000000 +0000" stop="20241019215959 +0000" channel="West Ham United">
+<title lang="en">Tottenham Hotspur v West Ham United</title>
+<desc lang="en">Next Fixture - Tottenham Hotspur v West Ham United - Sunday 19th October - 12:30 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240707000000 +0000" stop="20241026215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<programme start="20240705000000 +0000" stop="20241027215959 +0000" channel="West Ham United">
+<title lang="en">West Ham United v Manchester United</title>
+<desc lang="en">Next Fixture - West Ham United v Manchester United - Sunday 27th October - 14:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240707000000 +0000" stop="20241102215959 +0000" channel="West Ham United">
+<title lang="en">Nottingham Forest v West Ham United</title>
+<desc lang="en">Next Fixture - Nottingham Forest v West Ham United - Saturday 2nd November - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240708000000 +0000" stop="20241102215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">West Ham United v Everton</title>
+<desc lang="en">Next Fixture - West Ham United v Everton - Saturday 9th November - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240709000000 +0000" stop="20241109215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">Newcastle United v West Ham United</title>
+<desc lang="en">Next Fixture - Newcastle United v West Ham United - Saturday 23rd November - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240710000000 +0000" stop="20241123215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
-</programme>
-<programme start="20240711000000 +0000" stop="20241130215959 +0000" channel="West Ham United">
-<title lang="en">Premier League Match</title>
-<desc lang="en">Premier League Match</desc>
+<title lang="en">West Ham United v Arsenal</title>
+<desc lang="en">Next Fixture - West Ham United v Arsenal - Saturday 30th November - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240712000000 +0000" stop="20241106215959 +0000" channel="West Ham United">
 <title lang="en">Premier League Match 11</title>
