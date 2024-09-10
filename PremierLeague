@@ -1,4 +1,28 @@
 <tv generator-info-name="none" generator-info-url="none">
+<channel id="Premier League Teams 2024/25">
+<display-name lang="en">Premier League Teams 2024/25</display-name>
+<icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
+</channel>
+<programme start="20240701000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+</programme>
+<programme start="20240702000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+</programme>
+<programme start="20240703000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+</programme>
+<programme start="20240704000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+</programme>
+<programme start="20240705000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+</programme>
 <channel id="Arsenal">
 <display-name lang="en">Arsenal</display-name>
 <icon src="https://archive.org/download/arsenal_202309/Arsenal.jpg"/>
