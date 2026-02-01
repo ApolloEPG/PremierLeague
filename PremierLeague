@@ -1,39 +1,39 @@
 <tv generator-info-name="none" generator-info-url="none">
-<channel id="Premier League Teams 2024/25">
-<display-name lang="en">Premier League Teams 2024/25</display-name>
+<channel id="Premier League Teams 2025/2026">
+<display-name lang="en">Premier League Teams 2025/2026</display-name>
 <icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
 </channel>
-<programme start="20240701000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<programme start="20250701000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
 <title lang="en">Premier League Teams</title>
-<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
 </programme>
-<programme start="20240702000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<programme start="20250702000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
 <title lang="en">Premier League Teams</title>
-<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
 </programme>
-<programme start="20240703000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<programme start="20250703000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
 <title lang="en">Premier League Teams</title>
-<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
 </programme>
-<programme start="20240704000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<programme start="20250704000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
 <title lang="en">Premier League Teams</title>
-<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
 </programme>
-<programme start="20240705000000 +0000" stop="20250730215959 +0000" channel="Premier League Teams 2024/25">
+<programme start="20250705000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
 <title lang="en">Premier League Teams</title>
-<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2024/25 Games</desc>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
 </programme>
 <channel id="Arsenal">
 <display-name lang="en">Arsenal</display-name>
 <icon src="https://archive.org/download/arsenal_202309/Arsenal.jpg"/>
 </channel>
-<programme start="20260130000000 +0000" stop="20260131215959 +0000" channel="Arsenal">
-<title lang="en">Tottenham Hotspur v Arsenal</title>
-<desc lang="en">Next Fixture - Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</desc>
+<programme start="20260130000000 +0000" stop="20260207215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Sunderland</title>
+<desc lang="en">Next Fixture - Arsenal v Sunderland - Saturday 7th February - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240702000000 +0000" stop="20240919215959 +0000" channel="Arsenal">
-<title lang="en">Atalanta v Arsenal</title>
-<desc lang="en">Next Fixture - Atalanta v Arsenal - Thursday 19th September - 20:00 Kick Off GMT - UEFA Champions League</desc>
+<programme start="20260108000000 +0000" stop="20260112215959 +0000" channel="Arsenal">
+<title lang="en">Brentford v Arsenal</title>
+<desc lang="en">Next Fixture - Brentford v Arsenal - Thursday 12th February - 20:00 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20240703000000 +0000" stop="20240922215959 +0000" channel="Arsenal">
 <title lang="en">Manchester City v Arsenal</title>
