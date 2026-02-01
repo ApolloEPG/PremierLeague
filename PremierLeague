@@ -11,19 +11,19 @@
 <display-name lang="en">Arsenal</display-name>
 <icon src="https://archive.org/download/arsenal_202309/Arsenal.jpg"/>
 </channel>
-<programme start="20260130000000 +0000" stop="20260207215959 +0000" channel="Arsenal">
+<programme start="20260101000000 +0000" stop="20260207215959 +0000" channel="Arsenal">
 <title lang="en">Arsenal v Sunderland</title>
 <desc lang="en">Next Fixture - Arsenal v Sunderland - Saturday 7th February - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20260108000000 +0000" stop="20260112215959 +0000" channel="Arsenal">
+<programme start="20260102000000 +0000" stop="20260112215959 +0000" channel="Arsenal">
 <title lang="en">Brentford v Arsenal</title>
 <desc lang="en">Next Fixture - Brentford v Arsenal - Thursday 12th February - 20:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20260213000000 +0000" stop="20260215215959 +0000" channel="Arsenal">
+<programme start="20260103000000 +0000" stop="20260215215959 +0000" channel="Arsenal">
 <title lang="en">Arsenal v Wigan Athletic</title>
 <desc lang="en">Next Fixture - Arsenal v Wigan Athletic - Sunday 15th February - 16:30 Kick Off GMT - English FA Cup</desc>
 </programme>
-<programme start="20260216000000 +0000" stop="20260222215959 +0000" channel="Arsenal">
+<programme start="20260104000000 +0000" stop="20260222215959 +0000" channel="Arsenal">
 <title lang="en">Tottenham Hotspur v Arsenal</title>
 <desc lang="en">Next Fixture - Tottenham Hotspur v Arsenal - Sunday 22nd February - 16:30 Kick Off GMT - English Premier League</desc>
 </programme>
