@@ -3962,3 +3962,11 @@
 <title lang="en">Premier League Match</title>
 <desc lang="en">Premier League Match</desc>
 </programme>
+<channel id="Premier League Replays">
+<display-name lang="en">Premier League Replays</display-name>
+<icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
+</channel>
+<programme start="20260101000000 +0000" stop="20260730215959 +0000" channel="Premier League Replays">
+<title lang="en">Premier League Replays</title>
+<desc lang="en">Full Match Replays Of Your Favourite Teams</desc>
+</programme>
