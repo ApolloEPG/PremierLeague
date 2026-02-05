@@ -4,7 +4,7 @@
 <icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
 </channel>
 <programme start="20260130000000 +0000" stop="20260730215959 +0000" channel="Premier League Replays">
-<title lang="en">Premier League Teams</title>
+<title lang="en">Premier League Replays</title>
 <desc lang="en">Watch Full Match Replays Of Your Favourite Team </desc>
 </programme>
 <channel id="Arsenal">
