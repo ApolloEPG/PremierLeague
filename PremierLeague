@@ -1,23 +1,11 @@
 <tv generator-info-name="none" generator-info-url="none">
-<channel id="Premier League Teams 2025/2026">
-<display-name lang="en">Premier League Teams 2025/2026</display-name>
+<channel id="Premier League Replays">
+<display-name lang="en">Premier League Replays</display-name>
 <icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
 </channel>
-<programme start="20260130000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
+<programme start="20260130000000 +0000" stop="20260730215959 +0000" channel="Premier League Replays">
 <title lang="en">Premier League Teams</title>
-<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
-</programme>
-<programme start="20260130000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
-<title lang="en">Premier League Teams</title>
-<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
-</programme>
-<programme start="20260130000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
-<title lang="en">Premier League Teams</title>
-<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
-</programme>
-<programme start="20260130000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
-<title lang="en">Premier League Teams</title>
-<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
+<desc lang="en">Watch Full Match Replays Of Your Favourite Team </desc>
 </programme>
 <channel id="Arsenal">
 <display-name lang="en">Arsenal</display-name>
