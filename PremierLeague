@@ -33,8 +33,8 @@
 <desc lang="en">Next Fixture - Arsenal v Chelsea - Sunday 1st March - 16:30 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20260100600000 +0000" stop="20260304215959 +0000" channel="Arsenal">
-<title lang="en">Brighton & Hove Albion v Arsenal</title>
-<desc lang="en">Next Fixture - Brighton & Hove Albion v Arsenal - Wednesday 4th March - 19:30 Kick Off GMT - English Premier League</desc>
+<title lang="en">Brighton And Hove Albion v Arsenal</title>
+<desc lang="en">Next Fixture - Brighton And Hove Albion v Arsenal - Wednesday 4th March - 19:30 Kick Off GMT - English Premier League</desc>
 </programme>
 <programme start="20260107000000 +0000" stop="20260315215959 +0000" channel="Arsenal">
 <title lang="en">Arsenal v Everton</title>
@@ -3959,3 +3959,4 @@
 <title lang="en">Premier League Replays</title>
 <desc lang="en">Full Match Replays Of Your Favourite Teams</desc>
 </programme>
+</tv>
